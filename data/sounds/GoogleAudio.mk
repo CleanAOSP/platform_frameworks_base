@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
 =======
@@ -71,6 +72,16 @@ PRODUCT_COPY_FILES += \
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
 =======
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
+=======
+    $(LOCAL_PATH)material/alarms/Carbon.ogg:system/media/audio/alarms/Carbon.ogg \
+    $(LOCAL_PATH)material/alarms/Helium.ogg:system/media/audio/alarms/Helium.ogg \
+    $(LOCAL_PATH)material/alarms/Krypton.ogg:system/media/audio/alarms/Krypton.ogg \
+    $(LOCAL_PATH)material/alarms/Neon.ogg:system/media/audio/alarms/Neon.ogg \
+    $(LOCAL_PATH)material/alarms/Osmium.ogg:system/media/audio/alarms/Osmium.ogg \
+    $(LOCAL_PATH)material/alarms/Oxygen.ogg:system/media/audio/alarms/Oxygen.ogg \
+    $(LOCAL_PATH)material/alarms/Platinum.ogg:system/media/audio/alarms/Platinum.ogg \
+    $(LOCAL_PATH)material/alarms/Timer.ogg:system/media/audio/alarms/Timer.ogg \
+>>>>>>> f93a7a6... Use Google Nexus Audio Files [2/2]
     $(LOCAL_PATH)material/effects/audio_end.ogg:system/media/audio/ui/audio_end.ogg \
     $(LOCAL_PATH)material/effects/audio_initiate.ogg:system/media/audio/ui/audio_initiate.ogg \
     $(LOCAL_PATH)material/effects/camera_click.ogg:system/media/audio/ui/camera_click.ogg \
@@ -99,6 +110,7 @@ PRODUCT_COPY_FILES += \
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     $(LOCAL_PATH)material/notifications/Birdsong.ogg:system/media/audio/notifications/Birdsong.ogg \
     $(LOCAL_PATH)material/notifications/Carme.ogg:system/media/audio/notifications/Carme.ogg \
     $(LOCAL_PATH)material/notifications/Ceres.ogg:system/media/audio/notifications/Ceres.ogg \
@@ -165,6 +177,22 @@ PRODUCT_COPY_FILES += \
 =======
     $(LOCAL_PATH)material/ringtones/Hey_hey.ogg:system/media/audio/ringtones/Hey_hey.ogg \
 >>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
+=======
+    $(LOCAL_PATH)material/notifications/Carme.ogg:system/media/audio/notifications/Carme.ogg \
+    $(LOCAL_PATH)material/notifications/Ceres.ogg:system/media/audio/notifications/Ceres.ogg \
+    $(LOCAL_PATH)material/notifications/Elara.ogg:system/media/audio/notifications/Elara.ogg \
+    $(LOCAL_PATH)material/notifications/Europa.ogg:system/media/audio/notifications/Europa.ogg \
+    $(LOCAL_PATH)material/notifications/Iapetus.ogg:system/media/audio/notifications/Iapetus.ogg \
+    $(LOCAL_PATH)material/notifications/Io.ogg:system/media/audio/notifications/Io.ogg \
+    $(LOCAL_PATH)material/notifications/Rhea.ogg:system/media/audio/notifications/Rhea.ogg \
+    $(LOCAL_PATH)material/notifications/Salacia.ogg:system/media/audio/notifications/Salacia.ogg \
+    $(LOCAL_PATH)material/notifications/Tethys.ogg:system/media/audio/notifications/Tethys.ogg \
+    $(LOCAL_PATH)material/notifications/Titan.ogg:system/media/audio/notifications/Titan.ogg \
+    $(LOCAL_PATH)material/ringtones/Atria.ogg:system/media/audio/ringtones/Atria.ogg \
+    $(LOCAL_PATH)material/ringtones/Callisto.ogg:system/media/audio/ringtones/Callisto.ogg \
+    $(LOCAL_PATH)material/ringtones/Dione.ogg:system/media/audio/ringtones/Dione.ogg \
+    $(LOCAL_PATH)material/ringtones/Ganymede.ogg:system/media/audio/ringtones/Ganymede.ogg \
+>>>>>>> f93a7a6... Use Google Nexus Audio Files [2/2]
     $(LOCAL_PATH)material/ringtones/Luna.ogg:system/media/audio/ringtones/Luna.ogg \
     $(LOCAL_PATH)material/ringtones/Oberon.ogg:system/media/audio/ringtones/Oberon.ogg \
     $(LOCAL_PATH)material/ringtones/Phobos.ogg:system/media/audio/ringtones/Phobos.ogg \
@@ -172,6 +200,7 @@ PRODUCT_COPY_FILES += \
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     $(LOCAL_PATH)material/ringtones/Romance.ogg:system/media/audio/ringtones/Romance.ogg \
     $(LOCAL_PATH)material/ringtones/Rrrring.ogg:system/media/audio/ringtones/Rrrring.ogg \
     $(LOCAL_PATH)material/ringtones/Sedna.ogg:system/media/audio/ringtones/Sedna.ogg \
@@ -207,3 +236,9 @@ PRODUCT_COPY_FILES += \
 =======
     $(LOCAL_PATH)material/ringtones/Zen.ogg:system/media/audio/ringtones/Zen.ogg
 >>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
+=======
+    $(LOCAL_PATH)material/ringtones/Sedna.ogg:system/media/audio/ringtones/Sedna.ogg \
+    $(LOCAL_PATH)material/ringtones/Titania.ogg:system/media/audio/ringtones/Titania.ogg \
+    $(LOCAL_PATH)material/ringtones/Triton.ogg:system/media/audio/ringtones/Triton.ogg \
+    $(LOCAL_PATH)material/ringtones/Umbriel.ogg:system/media/audio/ringtones/Umbriel.ogg \
+>>>>>>> f93a7a6... Use Google Nexus Audio Files [2/2]
