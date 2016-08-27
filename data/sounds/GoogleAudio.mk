@@ -18,6 +18,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/alarms/Argon.ogg:system/media/audio/alarms/Argon.ogg \
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 43bbd11... add googles new alarm sounds from android-n
 =======
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
     $(LOCAL_PATH)material/alarms/Awaken.ogg:system/media/audio/alarms/Awaken.ogg \
@@ -25,7 +28,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/alarms/Carbon.ogg:system/media/audio/alarms/Carbon.ogg \
     $(LOCAL_PATH)material/alarms/Drip.ogg:system/media/audio/alarms/Drip.ogg \
 <<<<<<< HEAD
+<<<<<<< HEAD
     $(LOCAL_PATH)material/alarms/Flow.ogg:system/media/audio/alarms/Flow.ogg \
+=======
+>>>>>>> 43bbd11... add googles new alarm sounds from android-n
 =======
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
     $(LOCAL_PATH)material/alarms/Gallop.ogg:system/media/audio/alarms/Gallop.ogg \
@@ -42,6 +48,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/alarms/Timer.ogg:system/media/audio/alarms/Timer.ogg \
     $(LOCAL_PATH)material/alarms/Wag.ogg:system/media/audio/alarms/Wag.ogg \
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     $(LOCAL_PATH)material/alarms/Carbon.ogg:system/media/audio/alarms/Carbon.ogg \
     $(LOCAL_PATH)material/alarms/Helium.ogg:system/media/audio/alarms/Helium.ogg \
@@ -52,6 +59,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/alarms/Platinum.ogg:system/media/audio/alarms/Platinum.ogg \
     $(LOCAL_PATH)material/alarms/Timer.ogg:system/media/audio/alarms/Timer.ogg \
 >>>>>>> f93a7a6... Use Google Nexus Audio Files [2/2]
+=======
+>>>>>>> 43bbd11... add googles new alarm sounds from android-n
 =======
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
     $(LOCAL_PATH)material/effects/audio_end.ogg:system/media/audio/ui/audio_end.ogg \
