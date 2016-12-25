@@ -30,11 +30,15 @@ PRODUCT_COPY_FILES += \
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     $(LOCAL_PATH)material/alarms/Flow.ogg:system/media/audio/alarms/Flow.ogg \
 =======
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
 =======
 >>>>>>> 43bbd11... add googles new alarm sounds from android-n
+=======
+    $(LOCAL_PATH)material/alarms/Flow.ogg:system/media/audio/alarms/Flow.ogg \
+>>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
 =======
     $(LOCAL_PATH)material/alarms/Flow.ogg:system/media/audio/alarms/Flow.ogg \
 >>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
@@ -94,6 +98,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/notifications/Ariel.ogg:system/media/audio/notifications/Ariel.ogg \
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     $(LOCAL_PATH)material/notifications/Birdsong.ogg:system/media/audio/notifications/Birdsong.ogg \
     $(LOCAL_PATH)material/notifications/Carme.ogg:system/media/audio/notifications/Carme.ogg \
     $(LOCAL_PATH)material/notifications/Ceres.ogg:system/media/audio/notifications/Ceres.ogg \
@@ -121,6 +126,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/ringtones/Ganymede.ogg:system/media/audio/ringtones/Ganymede.ogg \
     $(LOCAL_PATH)material/ringtones/Hey_hey.ogg:system/media/audio/ringtones/Hey_hey.ogg \
 =======
+=======
+    $(LOCAL_PATH)material/notifications/Birdsong.ogg:system/media/audio/notifications/Birdsong.ogg \
+>>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
 =======
     $(LOCAL_PATH)material/notifications/Birdsong.ogg:system/media/audio/notifications/Birdsong.ogg \
 >>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
@@ -149,7 +157,11 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/ringtones/Early_bird.ogg:system/media/audio/ringtones/Early_bird.ogg \
     $(LOCAL_PATH)material/ringtones/Ganymede.ogg:system/media/audio/ringtones/Ganymede.ogg \
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f93a7a6... Use Google Nexus Audio Files [2/2]
+=======
+    $(LOCAL_PATH)material/ringtones/Hey_hey.ogg:system/media/audio/ringtones/Hey_hey.ogg \
+>>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
 =======
     $(LOCAL_PATH)material/ringtones/Hey_hey.ogg:system/media/audio/ringtones/Hey_hey.ogg \
 >>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
@@ -157,6 +169,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/ringtones/Oberon.ogg:system/media/audio/ringtones/Oberon.ogg \
     $(LOCAL_PATH)material/ringtones/Phobos.ogg:system/media/audio/ringtones/Phobos.ogg \
     $(LOCAL_PATH)material/ringtones/Pyxis.ogg:system/media/audio/ringtones/Pyxis.ogg \
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     $(LOCAL_PATH)material/ringtones/Romance.ogg:system/media/audio/ringtones/Romance.ogg \
@@ -174,6 +187,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/ringtones/Romance.ogg:system/media/audio/ringtones/Romance.ogg \
     $(LOCAL_PATH)material/ringtones/Rrrring.ogg:system/media/audio/ringtones/Rrrring.ogg \
 >>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
+=======
+    $(LOCAL_PATH)material/ringtones/Romance.ogg:system/media/audio/ringtones/Romance.ogg \
+    $(LOCAL_PATH)material/ringtones/Rrrring.ogg:system/media/audio/ringtones/Rrrring.ogg \
+>>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
     $(LOCAL_PATH)material/ringtones/Sedna.ogg:system/media/audio/ringtones/Sedna.ogg \
     $(LOCAL_PATH)material/ringtones/Shooting_star.ogg:system/media/audio/ringtones/Shooting_star.ogg \
     $(LOCAL_PATH)material/ringtones/Spaceship.ogg:system/media/audio/ringtones/Spaceship.ogg \
@@ -182,7 +199,11 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/ringtones/Triton.ogg:system/media/audio/ringtones/Triton.ogg \
     $(LOCAL_PATH)material/ringtones/Umbriel.ogg:system/media/audio/ringtones/Umbriel.ogg \
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f93a7a6... Use Google Nexus Audio Files [2/2]
+=======
+    $(LOCAL_PATH)material/ringtones/Zen.ogg:system/media/audio/ringtones/Zen.ogg
+>>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
 =======
     $(LOCAL_PATH)material/ringtones/Zen.ogg:system/media/audio/ringtones/Zen.ogg
 >>>>>>> e68ff8b... GoogleAudio: update effect sound and add pixel sounds [1/2]
